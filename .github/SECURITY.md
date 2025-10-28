@@ -5,7 +5,6 @@ Thank you for caring about security. If you've found a vulnerability in this pro
 Preferred disclosure method
 
 - Email: mbarleon@mbarleon.com
-- PGP key: (optional) Add a PGP key here if you'd like reporters to encrypt sensitive details.
 
 What to include
 
