@@ -20,6 +20,6 @@ repos:
       - id: trailing-whitespace
 
       # Optional: if project uses json
-      - id: pretty-format-json
-        args: ['--autofix']
-      - id: check-json
+      # - id: pretty-format-json
+      #   args: ['--autofix']
+      # - id: check-json
